@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Günlük Planım",
+    "slug": "hafta-7-gunluk-plan",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "scheme": "gunluk-plan",
+    "plugins": ["expo-router"]
+  }
+}
