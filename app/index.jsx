@@ -47,7 +47,7 @@ export default function Index() {
           <Spacer height={22} />
           <ThemedCard style={styles.priority}>
             <View style={styles.priorityIcon}>
-              <Ionicons name="logo-bitcoin" size={22} color="#FFFFFF" />
+              <Ionicons name="sparkles" size={20} color="#FFFFFF" />
             </View>
             <View style={styles.priorityCopy}>
               <ThemedText style={[styles.priorityLabel, { color: colors.primary }]}>BUGÜNÜN ÖNCELİĞİ</ThemedText>
